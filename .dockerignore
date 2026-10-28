@@ -1,0 +1,5 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+creditcard.csv
+test_fraud_api.py
